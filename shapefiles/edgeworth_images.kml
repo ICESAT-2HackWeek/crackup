@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="layer" id="layer">
+	<SimpleField name="inst_sname" type="string"></SimpleField>
+	<SimpleField name="orig_id" type="string"></SimpleField>
+	<SimpleField name="acq_time" type="string"></SimpleField>
+	<SimpleField name="est_loc" type="int"></SimpleField>
+</Schema>
+<Folder><name>layer</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LE7216105000005250</SimpleData>
+		<SimpleData name="acq_time">None</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE7214104000005450</SimpleData>
+		<SimpleData name="acq_time">2000-02-23 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.5874,-69.61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE7215104000002950</SimpleData>
+		<SimpleData name="acq_time">2000-01-29 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.5874,-69.61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE7216104000132650</SimpleData>
+		<SimpleData name="acq_time">2001-11-22 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.5874,-69.61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE7216106000005250</SimpleData>
+		<SimpleData name="acq_time">2002-02-21 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.5874,-69.61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE7217106000235250</SimpleData>
+		<SimpleData name="acq_time">2002-12-18 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.5874,-69.61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE7218104000134050</SimpleData>
+		<SimpleData name="acq_time">2001-12-06 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.5874,-69.61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE7218105000105250</SimpleData>
+		<SimpleData name="acq_time">2001-02-21 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.5874,-69.61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE7218106000105250</SimpleData>
+		<SimpleData name="acq_time">2001-02-21 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.5874,-69.61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE7218107000105250</SimpleData>
+		<SimpleData name="acq_time">2001-02-21 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.5874,-69.61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE7218109000100451</SimpleData>
+		<SimpleData name="acq_time">2001-01-04 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.5874,-69.61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE72181092002359EDC00</SimpleData>
+		<SimpleData name="acq_time">2002-12-25 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.5874,-69.61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE7220107000105050</SimpleData>
+		<SimpleData name="acq_time">2001-02-19 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.5874,-69.61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE7220108000105050</SimpleData>
+		<SimpleData name="acq_time">2001-02-19 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.5874,-69.61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE7220109000105050</SimpleData>
+		<SimpleData name="acq_time">2001-02-19 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.5874,-69.61,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
